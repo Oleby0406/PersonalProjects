@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-family: "Roboto";
+  font-size: 4vw; 
+}
+
+p {
+  font-size: 2vw;
+}
+
+#board {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30vw;
+  width: 40vw;
+  margin: auto;
+}
